@@ -1,4 +1,4 @@
-name: ads
+name: analise
 channels:
   - defaults
 dependencies:
@@ -299,5 +299,5 @@ dependencies:
     - tomlkit==0.7.0
     - tqdm==4.50.2
     - win32-setctime==1.1.0
-prefix: C:\Users\202212008241\.conda\envs\ads
+prefix: C:\Users\202212008241\.conda\envs\analise
 
